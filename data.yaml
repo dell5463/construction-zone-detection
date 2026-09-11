@@ -1,0 +1,13 @@
+path: .  # dataset root folder
+
+train: C:/Users/chakk/Desktop/CSODYOLO/ConstructionSiteObjectDetection/images/train
+val: C:/Users/chakk/Desktop/CSODYOLO/ConstructionSiteObjectDetection/images/val
+
+names:
+  0: "Cone"
+  1: "Construction_Cylinder"
+  2: "Signs"
+  3: "Fences"
+  4: "Barriers"
+  5: "Vehicles"
+ 
