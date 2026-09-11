@@ -6,7 +6,7 @@ Third place, Engineering category, Regeneron Westchester Science & Engineering F
 
 ![Model predictions on validation images](runs/detect/train3/val_batch0_pred.jpg)
 
-**[Read the paper](construction-zone-detection-paper.pdf)**
+**[Read the paper](Real-time Construction Site Object Detection.pdf)**
 
 ## Problem
 
