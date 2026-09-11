@@ -6,7 +6,7 @@ Third place, Engineering category, Regeneron Westchester Science & Engineering F
 
 ![Model predictions on validation images](runs/detect/train3/val_batch0_pred.jpg)
 
-**[Read the paper](Real-time Construction Site Object Detection.pdf)**
+**[Read the paper](Real-time%20Construction%20Site%20Object%20Detection.pdf)**
 
 ## Problem
 
@@ -66,7 +66,7 @@ Barriers are the interesting failure. They are common in the data but score only
 
 ```text
 .
-├── construction-zone-detection-paper.pdf   Full research paper
+├── Real-time Construction Site Object Detection.pdf   Full research paper
 ├── train.py                                YOLOv11s training script
 ├── data.yaml                               Dataset config
 ├── inference.py                            Batch image inference
